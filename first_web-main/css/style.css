@@ -86,7 +86,7 @@ section {                        /*기본 설정*/
 
 .main {
   height: 400px;                /*메인 이미지 높이*/
-  background-image: url("/main.png");       
+  background-image: url("../img/main.png");       
   background-size: cover;           /*해당 이미지가 섹션의 가로 크기만큼 꽉 채워서 그려주라는 의미 */
   background-position: center 60%;    /*가운데 맞춤*/
   background-repeat: no-repeat;
